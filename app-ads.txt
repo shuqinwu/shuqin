@@ -2,6 +2,7 @@
 google.com, pub-6977111593020030, DIRECT, f08c47fec0942fa0
 #mate
 facebook.com, 1381512483839938, DIRECT, c3e20eee3f780d68
+facebook.com, 27691992427102946, RESELLER, c3e20eee3f780d68
 #liftoff
 vungle.com,69e085c409a2b4fe407afd40,DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
